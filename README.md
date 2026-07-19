@@ -1,2 +1,0 @@
-# botsistemdrx
-botauto
