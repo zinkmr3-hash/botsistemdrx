@@ -6,8 +6,8 @@
 // @author       Enhanced
 // @match        https://collection-id.zunamiq.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/auto-adlogs-v38.1.user.js
-// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/auto-adlogs-v38.1.user.js
+// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/auto-adlogs-v4.8.1.user.js
+// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/auto-adlogs-v4.8.1.user.js
 // @run-at       document-idle
 // ==/UserScript==
 
