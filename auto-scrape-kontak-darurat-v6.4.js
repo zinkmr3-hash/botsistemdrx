@@ -9,8 +9,8 @@
 // @match        http://collection-id.zunamiq.com/*
 // @grant        GM_addStyle
 // @require      https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js
-// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/auto-scrape-kontak-darurat-v6.4.js
-// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/auto-scrape-kontak-darurat-v6.4.js
+// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/auto-scrape-kontak-darurat-v6.4.js
+// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/auto-scrape-kontak-darurat-v6.4.js
 // @run-at       document-idle
 // ==/UserScript==
 // === PROTECTION LAYER ===
