@@ -9,8 +9,8 @@
 // @match        http://collection-id.zunamiq.com/*
 // @grant        GM_addStyle
 // @require      https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js
-// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/WIDA-Auto-copy-data-nasabah-v4.5.user.js
-// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/WIDA-Auto-copy-data-nasabah-v4.5.user.js
+// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/WIDA-Auto-copy-data-nasabah-v4.5.user.js
+// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/WIDA-Auto-copy-data-nasabah-v4.5.user.js
 // @version      v4.5  // <-- naikkan versi saat update
 // @run-at       document-idle
 // ==/UserScript==
