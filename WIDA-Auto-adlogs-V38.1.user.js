@@ -6,8 +6,8 @@
 // @author       Enhanced
 // @match        https://collection-id.zunamiq.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/WIDA-Auto-adlogs-V38.1.user.js.user.js
-// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/WIDA-Auto-adlogs-V38.1.user.js.user.js
+// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/WIDA-Auto-adlogs-V38.1.user.js.user.js
+// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/WIDA-Auto-adlogs-V38.1.user.js.user.js
 // @run-at       document-idle
 // ==/UserScript==
 // === PROTECTION LAYER ===
