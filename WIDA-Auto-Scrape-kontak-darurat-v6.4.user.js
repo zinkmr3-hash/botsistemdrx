@@ -9,8 +9,8 @@
 // @match        http://collection-id.zunamiq.com/*
 // @grant        GM_addStyle
 // @require      https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js
-// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/WIDA-Auto-Scrape-kontak-darurat-v6.4.user.js
-// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/main/WIDA-Auto-Scrape-kontak-darurat-v6.4.user.js
+// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/WIDA-Auto-Scrape-kontak-darurat-v6.4.user.js
+// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/WIDA-Auto-Scrape-kontak-darurat-v6.4.user.js
 // @version      6.4  // <-- naikkan versi saat update
 // @run-at       document-idle
 // ==/UserScript==
