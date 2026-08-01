@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Klik Telegram
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      6.0
 // @description  Auto klik opsi "Telegram" di dropdown "..." untuk semua nasabah, tanpa membuka tab/jendela baru
 // @match        https://collection-id.zunamiq.com/*
 // @grant        none
