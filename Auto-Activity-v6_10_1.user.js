@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Activity Collection - NONSTOP v8.1
 // @namespace    http://tampermonkey.net/
-// @version      6.10.1
+// @version      7.10.1
 // @description  Anti-CAPTCHA: hapus double dispatch, jeda natural, idle 30-60 dtk, UI transparan
 // @author       Enhanced
 // @match        https://collection-id.zunamiq.com/*
