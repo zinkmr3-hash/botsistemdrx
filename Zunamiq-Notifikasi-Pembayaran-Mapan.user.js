@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Zunamiq - Notifikasi Pembayaran Mapan
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Notifikasi suara ucapan saat ada pembayaran masuk di tab Mapan
 // @author       Kamu
 // @match        https://collection-id.zunamiq.com/*
@@ -149,8 +149,9 @@
 
         const d = document.createElement('div');
         d.id = 'zq-indicator';
+        // POSISI DIUBAH: right:18px → left:18px (pojok kiri bawah)
         d.style.cssText = `
-            position:fixed; bottom:18px; right:18px; z-index:99999;
+            position:fixed; bottom:18px; left:18px; z-index:99999;
             background:rgba(0,0,0,0.82); color:#fff; padding:9px 14px;
             border-radius:8px; font-family:'Segoe UI',sans-serif; font-size:12px;
             display:flex; align-items:center; gap:8px; cursor:pointer;
