@@ -4,6 +4,8 @@
 // @version      1.1
 // @description  Auto buka Detail -> Tambah catatan penagihan -> isi form (Hasil kontak, catatan acak, tanggal "Sekarang") -> Simpan catatan. Auto-pagination.
 // @match        https://admin.yuanyiyanjie.org/id/collector-platform/cases*
+// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/YYJ-Collector-Auto-Isi-Log-Penagihan.user.js
+// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/YYJ-Collector-Auto-Isi-Log-Penagihan.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
