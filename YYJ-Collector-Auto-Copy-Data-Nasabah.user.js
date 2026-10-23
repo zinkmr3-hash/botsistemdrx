@@ -5,6 +5,8 @@
 // @description  Auto buka Detail -> Rincian Pengguna, salin Nama/Telepon(diawali 8)/Aplikasi ke clipboard, ekspor XLSX. Auto-pagination (fix: lanjut ke halaman 2, 3, dst).
 // @match        https://admin.yuanyiyanjie.org/id/collector-platform/cases*
 // @require      https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js
+// @updateURL    https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/YYJ-Collector-Auto-Copy-Data-Nasabah.user.js
+// @downloadURL  https://raw.githubusercontent.com/zinkmr3-hash/botsistemdrx/refs/heads/main/YYJ-Collector-Auto-Copy-Data-Nasabah.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
